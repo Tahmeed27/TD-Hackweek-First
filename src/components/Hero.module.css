@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 6rem;
+}
+
+.font {
+  width: 443px;
+  height: 257px;
+
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 66px;
+
+  color: #3bb13c;
+}
+
+.circular {
+  width: 650px;
+  height: 475px;
+  background-image: url("../images/Group1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: block;
+  /* border-radius: 200px; */
+}
